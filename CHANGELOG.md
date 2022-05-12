@@ -2,6 +2,14 @@
 All notable changes to [Solang](https://github.com/hyperledger-labs/solang/)
 will be documented here.
 
+## [0.1.11]
+
+### Added
+- Added support for Solidity user types
+
+### Changed
+- A huge amount of bug fixes
+
 ## [0.1.10]
 
 ### Added
